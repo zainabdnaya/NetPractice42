@@ -1,0 +1,1 @@
+In this exos folder, run the index.html file.
